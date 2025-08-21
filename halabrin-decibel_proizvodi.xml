@@ -134,4 +134,73 @@ Estetski, uređaj dolazi u univerzalnoj beloj boji, sa kompaktnim dimenzijama k
       </attribute>
     </attributes>
   </product>
+
+<product>
+    <sku><![CDATA[ 50UHD10K ]]></sku>
+    
+    <product_category><![CDATA[ TV, audio, video > Televizori ]]></product_category>
+    
+    <product_name><![CDATA[ Televizor VIVAX 50UHD10K Smart ]]></product_name>
+    
+    <product_brand><![CDATA[ VIVAX ]]></product_brand>
+    
+    <product_mpn><![CDATA[ 50UHD10K ]]></product_mpn>
+    
+    <product_description><![CDATA[ Vivax 50UHD10K donosi kristalno jasnu UHD 4K rezoluciju (3840 x 2160 px) na velikoj dijagonali od 50 inča (127 cm). Zahvaljujući kontrastu od 5000:1, Clear Motion Engine 400 Hz tehnologiji i širokom uglu gledanja od 178°, slika je izuzetno oštra, glatka i prirodna u svim uslovima. Podržani modovi prikaza i podešavanje pozadinskog osvetljenja omogućavaju da sadržaj uvek izgleda najbolje, bilo da gledate film, sport ili igrate igrice. Opremljen Android 11.0 operativnim sistemom, ovaj model nudi pristup svim popularnim aplikacijama – Netflix, YouTube, Prime Video, Google Play i mnoge druge. Tu su i Google Voice Search, Chromecast built-in i Mirrorcast, što olakšava povezivanje i strimovanje sa telefona, tableta ili računara. ]]></product_description>
+    
+    <product_url><![CDATA[ https://halabrin-decibel.rs/proizvod/televizor-vivax-50uhd10k-smart/ ]]></product_url>
+    
+    <product_price>36999.00</product_price>
+    
+    <product_price_discount>29999.00</product_price_discount>
+    
+    <product_image_urls>
+        <product_image_url><![CDATA[ https://halabrin-decibel.rs/wp-content/uploads/2025/08/Televizor-VIVAX-50UHD10K-Smart-Halabrin-Decibel.png ]]></product_image_url>
+        <product_image_url><![CDATA[ https://halabrin-decibel.rs/wp-content/uploads/2025/08/Televizor-VIVAX-50UHD10K-Smart-dijagonalni-pogled-Halabrin-Decibel.png ]]></product_image_url>
+    </product_image_urls>
+    
+    <product_ean><![CDATA[ ]]></product_ean>
+    <product_isbn><![CDATA[ ]]></product_isbn>
+    
+    <product_stock>1</product_stock>
+    
+    <product_remark><![CDATA[ ]]></product_remark>
+    
+    <product_delivery_price><![CDATA[ Dostava po cenovniku kurirskih službi. Za porudžbine preko 15.000 dinara isporuka je besplatna. ]]></product_delivery_price>
+    
+    <product_warranty><![CDATA[ 5 godina ]]></product_warranty>
+    
+    <attributes>
+        <attribute>
+            <key><![CDATA[ Dijagonala ekrana ]]></key>
+            <value><![CDATA[ 50" (127 cm) ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Rezolucija ]]></key>
+            <value><![CDATA[ 3840 x 2160 UHD 4K ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Tehnologija ]]></key>
+            <value><![CDATA[ LED ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Boja ]]></key>
+            <value><![CDATA[ Crna ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Operativni sistem ]]></key>
+            <value><![CDATA[ Android 11.0 ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ VESA Standard ]]></key>
+            <value><![CDATA[ 300 x 200 ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Zvučnici ]]></key>
+            <value><![CDATA[ 8 + 8 W ]]></value>
+        </attribute>
+    </attributes>
+</product>
+  
 </products>
+
