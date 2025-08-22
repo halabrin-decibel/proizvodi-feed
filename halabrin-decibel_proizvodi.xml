@@ -201,7 +201,64 @@ Estetski, uređaj dolazi u univerzalnoj beloj boji, sa kompaktnim dimenzijama k
         </attribute>
     </attributes>
 </product>
+
+<product>
+    <sku><![CDATA[ DOM50LP ]]></sku>
+    
+    <product_category><![CDATA[ Bela tehnika > Bojleri ]]></product_category>
+    
+    <product_name><![CDATA[ Bojler DOM Inox Prerada Prohrom 50l ]]></product_name>
+    
+    <product_brand><![CDATA[ DOM - Inox prerada ]]></product_brand>
+    
+    <product_mpn><![CDATA[ DOM50LP ]]></product_mpn>
+    
+    <product_description><![CDATA[ Bojler DOM Prohrom 50L – pouzdanost i dug vek trajanja. DOM 50L bojler izrađen je od prohromskog (inox) kazana koji obezbeđuje otpornost na kamenac, koroziju i visoke temperature. Upravo prohrom garantuje dug vek trajanja i higijenski ispravnu toplu vodu. Ovo ga čini idealnim rešenjem za domaćinstva koja traže uređaj na koji mogu da se oslone godinama. Sa zapreminom od 50 litara i snagom grejača od 2 kW, bojler pruža dovoljno tople vode za prosečno domaćinstvo, uz optimalnu potrošnju energije. Termostat sa spoljnom regulacijom omogućava lako podešavanje željene temperature, dok sigurnosni ventil i zaštitni elementi garantuju bezbednu upotrebu. Zahvaljujući energetskoj efikasnosti i preciznoj kontroli temperature, smanjuje se nepotrebna potrošnja struje i produžava životni vek uređaja. Dimenzije od 45 × 47 × 63 cm i vertikalna montaža omogućavaju jednostavno uklapanje čak i u manja kupatila i kuhinje. Moderno oblikovan bojler DOM Prohrom 50L neće narušiti izgled enterijera, a uz to se odlikuje tihim i pouzdanim radom. Njegova praktičnost i jednostavna instalacija čine ga odličnim izborom za sve tipove domaćinstava. ]]></product_description>
+    
+    <product_url><![CDATA[ https://halabrin-decibel.rs/proizvod/bojler-dom-prohrom-50l/ ]]></product_url>
+    
+    <product_price>20590.00</product_price>
+    
+    <product_price_discount>17999.00</product_price_discount>
+    
+    <product_image_urls>
+        <product_image_url><![CDATA[ https://halabrin-decibel.rs/wp-content/uploads/2025/08/Bojler-Inox-Prerada-DOM-Prohrom-50l-Halabrin-Decibel.png ]]></product_image_url>
+        <product_image_url><![CDATA[ https://halabrin-decibel.rs/wp-content/uploads/2025/08/Bojler-DOM-Prohrom-50l-Sema-montaze-Halabrin-Decibel.png ]]></product_image_url>
+    </product_image_urls>
+    
+    <product_ean><![CDATA[ ]]></product_ean>
+    <product_isbn><![CDATA[ ]]></product_isbn>
+    
+    <product_stock>1</product_stock>
+    
+    <product_remark><![CDATA[ Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava! ]]></product_remark>
+    
+    <product_delivery_price><![CDATA[ Dostava po cenovniku kurirskih službi. ]]></product_delivery_price>
+    
+    <product_warranty><![CDATA[ 10 godina na kazan, 2 godine na elektro delove ]]></product_warranty>
+    
+    <attributes>
+        <attribute>
+            <key><![CDATA[ Zapremina bojlera ]]></key>
+            <value><![CDATA[ 50L ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Dimenzije (ŠxDxV) ]]></key>
+            <value><![CDATA[ 45 × 47 × 63cm ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Vrsta Kazana ]]></key>
+            <value><![CDATA[ Prohrom ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Snaga ]]></key>
+            <value><![CDATA[ 2kW ]]></value>
+        </attribute>
+    </attributes>
+</product>
+
   
 </products>
+
 
 
