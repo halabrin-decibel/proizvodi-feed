@@ -152,7 +152,7 @@ Estetski, uređaj dolazi u univerzalnoj beloj boji, sa kompaktnim dimenzijama k
     
     <product_price>36999.00</product_price>
     
-    <product_price_discount>29999.00</product_price_discount>
+    <product_price_discount>28999.00</product_price_discount>
     
     <product_image_urls>
         <product_image_url><![CDATA[ https://halabrin-decibel.rs/wp-content/uploads/2025/08/Televizor-VIVAX-50UHD10K-Smart-Halabrin-Decibel.png ]]></product_image_url>
@@ -257,8 +257,65 @@ Estetski, uređaj dolazi u univerzalnoj beloj boji, sa kompaktnim dimenzijama k
     </attributes>
 </product>
 
+
+  <product>
+    <sku><![CDATA[ DOM80LP ]]></sku>
+    
+    <product_category><![CDATA[ Bela tehnika > Bojleri ]]></product_category>
+    
+    <product_name><![CDATA[ Bojler DOM Inox Prerada Prohrom 80l ]]></product_name>
+    
+    <product_brand><![CDATA[ DOM - Inox prerada ]]></product_brand>
+    
+    <product_mpn><![CDATA[ DOM80LP ]]></product_mpn>
+    
+    <product_description><![CDATA[ Bojler Dom Pančevo 80L je idealno rešenje za sve koji žele efikasno i dugotrajno snabdevanje toplom vodom u svom domaćinstvu. Ovaj vertikalni bojler sa kapacitetom od 80 litara dizajniran je da bude izuzetno funkcionalan i energetski efikasan, savršen za kupatila i druge prostore u vašem domu. Sa radnim pritiskom od 0,6 MPa (6 bar-a), pruža pouzdano i stabilno zagrevanje vode.
+Jedan od ključnih faktora koji ovaj bojler čini izuzetnim je kazan napravljen od visoko kvalitetnog nerđajućeg čelika (INOX). Ovaj materijal ne samo da osigurava dugotrajnost i otpornost na koroziju, već i omogućava efikasno zagrevanje fiziološki ispravne tople vode za vaš svakodnevni korišćenje. Uz to, izolacija koju bojler poseduje pomaže u održavanju toplote i smanjuje gubitke energije, čime se postiže značajna ušteda električne energije i smanjuju troškovi. ]]></product_description>
+    
+    <product_url><![CDATA[ https://halabrin-decibel.rs/proizvod/bojler-dom-prohrom-80l/ ]]></product_url>
+    
+    <product_price>23990.00</product_price>
+    
+    <product_price_discount>19999.00</product_price_discount>
+    
+    <product_image_urls>
+        <product_image_url><![CDATA[ https://halabrin-decibel.rs/wp-content/uploads/2025/05/Bojler-DOM-Prohrom-80l.png ]]></product_image_url>
+    </product_image_urls>
+    
+    <product_ean><![CDATA[ ]]></product_ean>
+    <product_isbn><![CDATA[ ]]></product_isbn>
+    
+    <product_stock>1</product_stock>
+    
+    <product_remark><![CDATA[ Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava! ]]></product_remark>
+    
+    <product_delivery_price><![CDATA[ Dostava po cenovniku kurirskih službi. ]]></product_delivery_price>
+    
+    <product_warranty><![CDATA[ 10 godina na kazan, 2 godine na elektro delove ]]></product_warranty>
+    
+    <attributes>
+        <attribute>
+            <key><![CDATA[ Zapremina bojlera ]]></key>
+            <value><![CDATA[ 80L ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Dimenzije (ŠxDxV) ]]></key>
+            <value><![CDATA[ 45 × 47 × 85cm ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Vrsta Kazana ]]></key>
+            <value><![CDATA[ Prohrom ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Snaga ]]></key>
+            <value><![CDATA[ 2kW ]]></value>
+        </attribute>
+    </attributes>
+</product>
+
   
 </products>
+
 
 
 
