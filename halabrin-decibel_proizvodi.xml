@@ -313,8 +313,68 @@ Jedan od ključnih faktora koji ovaj bojler čini izuzetnim je kazan napravljen
     </attributes>
 </product>
 
+
+
+  <product>
+    <sku><![CDATA[ LINS-T52 ]]></sku>
+    
+    <product_category><![CDATA[ Mali kućni aparati > Rešoi i mini pećnice ]]></product_category>
+    
+    <product_name><![CDATA[ Indukcioni Rešo LUMAX HOME LINS-T52 2000w ]]></product_name>
+    
+    <product_brand><![CDATA[ LUMAX ]]></product_brand>
+    
+    <product_mpn><![CDATA[ LINS-T52 ]]></product_mpn>
+    
+    <product_description><![CDATA[ Indukcioni rešo LUMAX HOME LINS-T52 snage 2000 W omogućava brzo i efikasno pripremanje obroka. Zahvaljujući indukcionoj tehnologiji, toplota se prenosi direktno na posudu, čime se smanjuje gubitak energije i skraćuje vreme kuvanja. Ploča od kristalnog stakla ne samo da izgleda elegantno, već je i jednostavna za održavanje.
+Ovaj model nudi 8 nivoa podešavanja snage i čak 7 različitih funkcija kuvanja – od podgrevanja mleka i kuvanja supa, do prženja i pečenja. Touch kontrole i LED displej obezbeđuju jednostavno upravljanje, dok timer omogućava potpunu kontrolu nad vremenom pripreme hrane.
+LUMAX HOME LINS-T52 poseduje automatsko isključivanje za dodatnu sigurnost, što ga čini pogodnim i za svakodnevnu upotrebu u domaćinstvu. Grejna površina prečnika 175 mm odgovara različitim veličinama posuda, dok kompaktne dimenzije rešo čine idealnim za male kuhinje, vikendice ili studentske sobe.
+Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, što donosi dugoročnu uštedu. Sa modernim crnim dizajnom, ovaj model se lako uklapa u svaki enterijer, pružajući kombinaciju praktičnosti, sigurnosti i uštede. ]]></product_description>
+    
+    <product_url><![CDATA[ https://halabrin-decibel.rs/proizvod/indukcioni-reso-lumax-home-lins-t52-2000w/ ]]></product_url>
+    
+    <product_price>3990.00</product_price>
+    
+    <product_price_discount>3399.00</product_price_discount>
+    
+    <product_image_urls>
+        <product_image_url><![CDATA[ https://halabrin-decibel.rs/wp-content/uploads/2025/09/Indukcioni-Reso-LUMAX-HOME-LINS-T52-2000w-Halabrin-Decibel.png ]]></product_image_url>
+    </product_image_urls>
+    
+    <product_ean><![CDATA[ ]]></product_ean>
+    <product_isbn><![CDATA[ ]]></product_isbn>
+    
+    <product_stock>1</product_stock>
+    
+    <product_remark><![CDATA[ Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava! ]]></product_remark>
+    
+    <product_delivery_price><![CDATA[ Dostava po cenovniku kurirskih službi. ]]></product_delivery_price>
+    
+    <product_warranty><![CDATA[ 2 godine ]]></product_warranty>
+    
+    <attributes>
+        <attribute>
+            <key><![CDATA[ Snaga ]]></key>
+            <value><![CDATA[ 2000w ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Nivoi podešavanja snage ]]></key>
+            <value><![CDATA[ 8 ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Prečnik grejne površine ]]></key>
+            <value><![CDATA[ 175 mm ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Boja ]]></key>
+            <value><![CDATA[ Crna ]]></value>
+        </attribute>
+    </attributes>
+</product>
+
   
 </products>
+
 
 
 
