@@ -729,8 +729,69 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
 </product>
 
 
+
+  <product>
+    <sku><![CDATA[ RP51445ND ]]></sku>
+    
+    <product_category><![CDATA[ Mali kućni aparati > Rešoi i mini pećnice ]]></product_category>
+    
+    <product_name><![CDATA[ Rešo Električni 2 ROSBERG RP51445ND ]]></product_name>
+    
+    <product_brand><![CDATA[ ROSBERG ]]></product_brand>
+    
+    <product_mpn><![CDATA[ RP51445ND ]]></product_mpn>
+    
+    <product_description><![CDATA[ Rosberg RP51445ND je električni rešo bele boje sa dve grejne površine prečnika 185 mm i 155 mm, što omogućava istovremeno kuvanje različitih jela. Snaga od 2500 W obezbeđuje brzo zagrevanje i efikasno korišćenje energije. Rešo poseduje 5 nivoa podešavanja snage za svaku grejnu ploču, čime dobijate potpunu kontrolu nad procesom kuvanja – od laganog podgrevanja do intenzivnog prženja. Tu je i praktičan svetlosni indikator koji pokazuje kada je ploča u funkciji. ]]></product_description>
+    
+    <product_url><![CDATA[ https://halabrin-decibel.rs/proizvod/reso-elektricni-2-rosberg-rp51445nd/ ]]></product_url>
+    
+    <product_price>3899.00</product_price>
+    
+    <product_price_discount>3149.00</product_price_discount>
+    
+    <product_image_urls>
+        <product_image_url><![CDATA[ https://halabrin-decibel.rs/wp-content/uploads/2025/09/Reso-Elektricni-2-ROSBERG-RP51445ND-Halabrin-Decibel.png ]]></product_image_url>
+    </product_image_urls>
+    
+    <product_ean><![CDATA[ ]]></product_ean>
+    <product_isbn><![CDATA[ ]]></product_isbn>
+    
+    <product_stock>1</product_stock>
+    
+    <product_remark><![CDATA[ Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava! ]]></product_remark>
+    
+    <product_delivery_price><![CDATA[ Dostava po cenovniku kurirskih službi. ]]></product_delivery_price>
+    
+    <product_warranty><![CDATA[ 2 godine ]]></product_warranty>
+    
+    <attributes>
+        <attribute>
+            <key><![CDATA[ Tip ]]></key>
+            <value><![CDATA[ Električni ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Broj ringli ]]></key>
+            <value><![CDATA[ Dve ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Snaga ]]></key>
+            <value><![CDATA[ 2500W ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Boja ]]></key>
+            <value><![CDATA[ Bela ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Napajanje ]]></key>
+            <value><![CDATA[ 230V ]]></value>
+        </attribute>
+    </attributes>
+</product>
+
+
   
 </products>
+
 
 
 
