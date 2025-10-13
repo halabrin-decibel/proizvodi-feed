@@ -908,9 +908,121 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
 </product>
 
 
+  <product>
+    <sku><![CDATA[ LINS-T10 ]]></sku>
+
+    <product_category><![CDATA[ Mali kućni aparati > Rešoi i mini pećnice ]]></product_category>
+
+    <product_name><![CDATA[ Indukcioni Rešo LUMAX HOME LINS-T10 2000w ]]></product_name>
+
+    <product_brand><![CDATA[ LUMAX ]]></product_brand>
+
+    <product_mpn><![CDATA[ LINS-T10 ]]></product_mpn>
+
+    <product_description><![CDATA[ Indukcioni rešo LUMAX HOME LINS-T10 2000W donosi savremeno iskustvo kuvanja u vaš dom. Zahvaljujući kristalnoj staklenoj ploči i elegantnom crnom dizajnu, ovaj model kombinuje estetiku i funkcionalnost, idealan je za svaku kuhinju, vikendicu ili kao pomoćna ploča u manjim prostorima. Sa 10 nivoa podešavanja snage i 7 automatskih funkcija kuvanja (mleko, prženje, pečenje, kuvanje, supa, čaj, toplotno održavanje), ovaj rešo omogućava potpunu kontrolu nad pripremom hrane. Grejna površina prečnika 175 mm i snaga od 2000 W obezbeđuju brzo postizanje željene temperature i ujednačeno kuvanje bez gubitka energije. ]]></product_description>
+
+    <product_url><![CDATA[ https://halabrin-decibel.rs/proizvod/indukcioni-reso-lumax-home-lins-t10-2000w/ ]]></product_url>
+
+    <product_price>4890.00</product_price>
+
+    <product_price_discount>3299.00</product_price_discount>
+
+    <product_image_urls>
+        <product_image_url><![CDATA[ https://halabrin-decibel.rs/wp-content/uploads/2025/10/Indukcioni-Reso-LUMAX-HOME-LINS-T10-2000w-Halabrin-Decibel.png ]]></product_image_url>
+    </product_image_urls>
+
+    <product_ean><![CDATA[ ]]></product_ean>
+    <product_isbn><![CDATA[ ]]></product_isbn>
+
+    <product_stock>1</product_stock>
+
+    <product_remark><![CDATA[ Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava! ]]></product_remark>
+
+    <product_delivery_price><![CDATA[ Dostava po cenovniku kurirskih službi. ]]></product_delivery_price>
+
+    <product_warranty><![CDATA[ 2 godine ]]></product_warranty>
+
+    <attributes>
+        <attribute>
+            <key><![CDATA[ Snaga ]]></key>
+            <value><![CDATA[ 2000W ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Nivoi podešavanja snage ]]></key>
+            <value><![CDATA[ 10 ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Prečnik grejne površine ]]></key>
+            <value><![CDATA[ 175 mm ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Boja ]]></key>
+            <value><![CDATA[ Crna ]]></value>
+        </attribute>
+    </attributes>
+</product>
+
+
+<product>
+    <sku><![CDATA[ LINS-T34 ]]></sku>
+
+    <product_category><![CDATA[ Mali kućni aparati > Rešoi i mini pećnice ]]></product_category>
+
+    <product_name><![CDATA[ Indukcioni Rešo LUMAX HOME LINS-T34 2000W ]]></product_name>
+
+    <product_brand><![CDATA[ LUMAX ]]></product_brand>
+
+    <product_mpn><![CDATA[ LINS-T34 ]]></product_mpn>
+
+    <product_description><![CDATA[ Indukcioni rešo Lumax Home LINS-T34 snage 2000W kombinuje savremeni ultra slim dizajn i naprednu tehnologiju za brzo, bezbedno i energetski efikasno kuvanje. Površina od kristalnog stakla ne samo da izgleda moderno, već je i jednostavna za čišćenje i otporna na visoke temperature. Zahvaljujući touch komandama i LED displeju, upravljanje funkcijama je intuitivno i precizno. Rešo ima 10 nivoa podešavanja snage, što omogućava potpunu kontrolu u pripremi različitih jela – od blagih sosova i mleka do brzog prženja i pečenja. Ugrađeni timer omogućava automatsko isključivanje, pa možete bezbrižno kuvati bez stalnog nadzora. ]]></product_description>
+
+    <product_url><![CDATA[ https://halabrin-decibel.rs/proizvod/indukcioni-reso-lumax-home-lins-t34-2000w/ ]]></product_url>
+
+    <product_price>5699.00</product_price>
+
+    <product_price_discount>4349.00</product_price_discount>
+
+    <product_image_urls>
+        <product_image_url><![CDATA[ https://halabrin-decibel.rs/wp-content/uploads/2025/10/Indukcioni-Reso-LUMAX-HOME-LINS-T34-2000w-Halabrin-Decibel.png ]]></product_image_url>
+    </product_image_urls>
+
+    <product_ean><![CDATA[ ]]></product_ean>
+    <product_isbn><![CDATA[ ]]></product_isbn>
+
+    <product_stock>1</product_stock>
+
+    <product_remark><![CDATA[ Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava! ]]></product_remark>
+
+    <product_delivery_price><![CDATA[ Dostava po cenovniku kurirskih službi. ]]></product_delivery_price>
+
+    <product_warranty><![CDATA[ 2 godine ]]></product_warranty>
+
+    <attributes>
+        <attribute>
+            <key><![CDATA[ Snaga ]]></key>
+            <value><![CDATA[ 2000W ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Nivoi podešavanja snage ]]></key>
+            <value><![CDATA[ 10 ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Prečnik grejne površine ]]></key>
+            <value><![CDATA[ 149 mm ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Boja ]]></key>
+            <value><![CDATA[ Crna ]]></value>
+        </attribute>
+    </attributes>
+</product>
+
+
+
 
   
 </products>
+
 
 
 
