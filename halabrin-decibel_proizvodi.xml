@@ -1299,8 +1299,77 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
 </product>
 
 
+  <product>
+    <sku><![CDATA[ 55PUS7810/12 ]]></sku>
+
+    <product_category><![CDATA[ TV, audio, video > Televizori ]]></product_category>
+
+    <product_name><![CDATA[ Televizor PHILIPS Ambilight LED 4K 55PUS7810/12 Smart QLED 4K ]]></product_name>
+
+    <product_brand><![CDATA[ PHILIPS ]]></product_brand>
+
+    <product_mpn><![CDATA[ 55PUS7810/12 ]]></product_mpn>
+
+    <product_description><![CDATA[ Philips 55PUS7810/12 donosi potpuno novo iskustvo gledanja zahvaljujući QLED tehnologiji i 4K Ultra HD rezoluciji (3840 × 2160 px). Svaka scena izgleda izuzetno oštro i prirodno, dok Pixel Precise UltraHD i Micro Dimming tehnologije dodatno poboljšavaju kontrast i boje. Uz podršku za HDR10+, ovaj televizor prikazuje širi raspon svetlih i tamnih tonova, pružajući dubinu slike koja vas uvlači u svaku scenu – bilo da gledate film, utakmicu ili igrate igre. ]]></product_description>
+
+    <product_url><![CDATA[ https://halabrin-decibel.rs/proizvod/televizor-philips-55pus7810-12-smart-qled-4k/ ]]></product_url>
+
+    <product_price>55999.00</product_price>
+
+    <product_price_discount>43999.00</product_price_discount>
+
+    <product_image_urls>
+        <product_image_url><![CDATA[ https://halabrin-decibel.rs/wp-content/uploads/2025/10/Televizor-Philips-55PUS781012-Smart-QLED-4K-Halabrin-Decibel.png ]]></product_image_url>
+    </product_image_urls>
+
+    <product_ean><![CDATA[ ]]></product_ean>
+    <product_isbn><![CDATA[ ]]></product_isbn>
+
+    <product_stock>1</product_stock>
+
+    <product_remark><![CDATA[ Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava! ]]></product_remark>
+
+    <product_delivery_price><![CDATA[ Dostava po cenovniku kurirskih službi. ]]></product_delivery_price>
+
+    <product_warranty><![CDATA[ 5 godina ]]></product_warranty>
+
+    <attributes>
+        <attribute>
+            <key><![CDATA[ Dijagonala ekrana ]]></key>
+            <value><![CDATA[ 55" (140 cm) ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Rezolucija ]]></key>
+            <value><![CDATA[ 4K UltraHD 3840 × 2160 pix ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Tehnologija ]]></key>
+            <value><![CDATA[ QLED ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Boja ]]></key>
+            <value><![CDATA[ Crna ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ Operativni sistem ]]></key>
+            <value><![CDATA[ TITAN OS ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ VESA Standard ]]></key>
+            <value><![CDATA[ 200 × 100 ]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[ WiFi ]]></key>
+            <value><![CDATA[ Da ]]></value>
+        </attribute>
+    </attributes>
+</product>
+
+
+
   
 </products>
+
 
 
 
