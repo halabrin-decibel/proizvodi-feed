@@ -1653,10 +1653,254 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
 </product>
 
 
+  <product>
+    <sku><![CDATA[10200300]]></sku>
+    <product_category><![CDATA[Telefoni, tableti i pametni satovi → Mobilni telefoni → Smart mobilni telefoni]]></product_category>
+    <product_name><![CDATA[SAMSUNG Galaxy S24 8/256GB 5G CRNI]]></product_name>
+    <brand><![CDATA[SAMSUNG]]></brand>
+    <model><![CDATA[Galaxy S24 8/256GB 5G CRNI]]></model>
+    <product_description><![CDATA[Samsung Galaxy S24 donosi vrhunske performanse, elegantan dizajn i moćne kamere u kompaktnom kućištu. Zahvaljujući Dynamic LTPO AMOLED 2X ekranu od 6.2 inča i frekvenciji osvežavanja od 120 Hz, uživaćete u izuzetno glatkom prikazu slike, živopisnim bojama i maksimalnoj svetlini do 2600 nita, uz podršku za HDR10+ standard.]]></product_description>
+    <product_url><![CDATA[https://halabrin-decibel.rs/proizvod/samsung-galaxy-s24-8-256gb-5g-crni/]]></product_url>
+    <product_price><![CDATA[65490]]></product_price>
+    <product_price_discount><![CDATA[]]></product_price_discount>
+    <product_image_urls>
+        <product_image_url><![CDATA[https://halabrin-decibel.rs/wp-content/uploads/2025/10/samsung-galaxy-s24-8-256gb-5g-crni-0.jpg]]></product_image_url>
+    </product_image_urls>
+    <product_ean><![CDATA[]]></product_ean>
+    <product_isbn><![CDATA[]]></product_isbn>
+    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_note><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_note>
+    <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
+    <product_warranty><![CDATA[2 godine]]></product_warranty>
+    <attributes>
+        <attribute>
+            <key><![CDATA[Ekran]]></key>
+            <value><![CDATA[6.2″, Dynamic LTPO AMOLED 2X, 1080 x 2340px, 416ppi, 120 Hz, 2600 nits (peak), HDR10+, Full HD+]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[RAM Memorija]]></key>
+            <value><![CDATA[8 GB]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[Interna Memorija]]></key>
+            <value><![CDATA[256 GB]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[Boja]]></key>
+            <value><![CDATA[Crna]]></value>
+        </attribute>
+    </attributes>
+</product>
+
+
+<product>
+    <sku><![CDATA[10200444]]></sku>
+    <product_category><![CDATA[Telefoni, tableti i pametni satovi → Mobilni telefoni → Smart mobilni telefoni]]></product_category>
+    <product_name><![CDATA[SAMSUNG Galaxy Z Flip7 FE 8/256GB Crni (Black)]]></product_name>
+    <brand><![CDATA[SAMSUNG]]></brand>
+    <model><![CDATA[Galaxy Z Flip7 FE 8/256GB Crni]]></model>
+    <product_description><![CDATA[Samsung Galaxy Z Flip7 FE donosi prepoznatljiv preklopni dizajn i vrhunske performanse, kombinujući eleganciju, praktičnost i snagu najnovijeg Exynos 2400 čipseta. Ovaj model predstavlja idealan izbor za one koji žele moderan, kompaktan i moćan telefon.]]></product_description>
+    <product_url><![CDATA[https://halabrin-decibel.rs/proizvod/samsung-galaxy-z-flip7-fe-8-256gb-crni-black/]]></product_url>
+    <product_price><![CDATA[72199]]></product_price>
+    <product_price_discount><![CDATA[]]></product_price_discount>
+    <product_image_urls>
+        <product_image_url><![CDATA[https://halabrin-decibel.rs/wp-content/uploads/2025/10/samsung-galaxy-z-flip7-12-512gb-crni-jetblack-0.jpg]]></product_image_url>
+    </product_image_urls>
+    <product_ean><![CDATA[]]></product_ean>
+    <product_isbn><![CDATA[]]></product_isbn>
+    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_note><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_note>
+    <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
+    <product_warranty><![CDATA[2 godine]]></product_warranty>
+    <attributes>
+        <attribute>
+            <key><![CDATA[Ekran]]></key>
+            <value><![CDATA[Glavni ekran: Dijagonala ekrana: 6.7″ Foldable Dynamic AMOLED 2X]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[RAM Memorija]]></key>
+            <value><![CDATA[8 GB]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[Interna Memorija]]></key>
+            <value><![CDATA[256 GB]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[Boja]]></key>
+            <value><![CDATA[Crna]]></value>
+        </attribute>
+    </attributes>
+</product>
+
+
+<product>
+    <sku><![CDATA[10200446]]></sku>
+    <product_category><![CDATA[Telefoni, tableti i pametni satovi → Mobilni telefoni → Smart mobilni telefoni]]></product_category>
+    <product_name><![CDATA[SAMSUNG Galaxy Z Flip7 FE 8/256GB Beli (White)]]></product_name>
+    <brand><![CDATA[SAMSUNG]]></brand>
+    <model><![CDATA[Galaxy Z Flip7 FE 8/256GB Beli]]></model>
+    <product_description><![CDATA[Samsung Galaxy Z Flip7 FE Beli donosi prepoznatljiv preklopni dizajn i vrhunske performanse, kombinujući eleganciju, praktičnost i snagu najnovijeg Exynos 2400 čipseta. Ovaj model predstavlja idealan izbor za one koji žele moderan, kompaktan i moćan telefon.]]></product_description>
+    <product_url><![CDATA[https://halabrin-decibel.rs/proizvod/samsung-galaxy-z-flip7-fe-8-256gb-beli-white/]]></product_url>
+    <product_price><![CDATA[72199]]></product_price>
+    <product_price_discount><![CDATA[]]></product_price_discount>
+    <product_image_urls>
+        <product_image_url><![CDATA[https://halabrin-decibel.rs/wp-content/uploads/2025/10/samsung-galaxy-z-flip7-fe-8-256gb-beli-white-0.jpg]]></product_image_url>
+    </product_image_urls>
+    <product_ean><![CDATA[]]></product_ean>
+    <product_isbn><![CDATA[]]></product_isbn>
+    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_note><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_note>
+    <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
+    <product_warranty><![CDATA[2 godine]]></product_warranty>
+    <attributes>
+        <attribute>
+            <key><![CDATA[Ekran]]></key>
+            <value><![CDATA[Glavni ekran: Dijagonala ekrana: 6.7″ Foldable Dynamic AMOLED 2X]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[RAM Memorija]]></key>
+            <value><![CDATA[8 GB]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[Interna Memorija]]></key>
+            <value><![CDATA[256 GB]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[Boja]]></key>
+            <value><![CDATA[Bela]]></value>
+        </attribute>
+    </attributes>
+</product>
+ 
+
+
+<product>
+    <sku><![CDATA[10200434]]></sku>
+    <product_category><![CDATA[Telefoni, tableti i pametni satovi → Mobilni telefoni → Smart mobilni telefoni]]></product_category>
+    <product_name><![CDATA[SAMSUNG Galaxy Z Flip7 12/512GB Crni (Jetblack)]]></product_name>
+    <brand><![CDATA[SAMSUNG]]></brand>
+    <model><![CDATA[Galaxy Z Flip7 12/512GB Crni]]></model>
+    <product_description><![CDATA[Samsung Galaxy Z Flip7 donosi savršen spoj elegancije, fleksibilnosti i vrhunskih performansi. Prepoznatljiv preklopni dizajn u kombinaciji sa najnovijom tehnologijom čini ovaj model jednim od najpoželjnijih pametnih telefona današnjice.]]></product_description>
+    <product_url><![CDATA[https://halabrin-decibel.rs/proizvod/samsung-galaxy-z-flip7-12-512gb-crni-jetblack/]]></product_url>
+    <product_price><![CDATA[106200]]></product_price>
+    <product_price_discount><![CDATA[]]></product_price_discount>
+    <product_image_urls>
+        <product_image_url><![CDATA[https://halabrin-decibel.rs/wp-content/uploads/2025/10/samsung-galaxy-z-flip7-12-512gb-crni-jetblack-0.jpg]]></product_image_url>
+    </product_image_urls>
+    <product_ean><![CDATA[]]></product_ean>
+    <product_isbn><![CDATA[]]></product_isbn>
+    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_note><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_note>
+    <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
+    <product_warranty><![CDATA[2 godine]]></product_warranty>
+    <attributes>
+        <attribute>
+            <key><![CDATA[Ekran]]></key>
+            <value><![CDATA[Glavni ekran: Dijagonala ekrana: 6.7″ Foldable Dynamic AMOLED 2X]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[RAM Memorija]]></key>
+            <value><![CDATA[12 GB]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[Interna Memorija]]></key>
+            <value><![CDATA[512 GB]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[Boja]]></key>
+            <value><![CDATA[Jetblack]]></value>
+        </attribute>
+    </attributes>
+</product>
+
+
+
+<product>
+    <sku><![CDATA[10200379]]></sku>
+    <product_category><![CDATA[Telefoni, tableti i pametni satovi → Mobilni telefoni → Smart mobilni telefoni]]></product_category>
+    <product_name><![CDATA[SAMSUNG Galaxy S25 12/128GB Silver Shadow (Srebrni/Sivi)]]></product_name>
+    <brand><![CDATA[SAMSUNG]]></brand>
+    <model><![CDATA[Galaxy S25 12/128GB Silver Shadow]]></model>
+    <product_description><![CDATA[Samsung Galaxy S25 12GB/128GB donosi vrhunske performanse i elegantan dizajn. Opremljen 6.2″ Dynamic AMOLED 2X ekranom od 120 Hz i moćnim Snapdragon 8 Elite (3 nm) procesorom, pruža besprekorno iskustvo u svemu — od igara do multitaskinga. Trostruka kamera od 50 MP sa 3x optičkim zumom i naprednim video mogućnostima garantuje vrhunske fotografije, dok 4000 mAh baterija sa brzim i bežičnim punjenjem obezbeđuje dugotrajan rad.]]></product_description>
+    <product_url><![CDATA[https://halabrin-decibel.rs/proizvod/samsung-galaxy-s25-12-128gb-silver-shadow-srebrni-sivi/]]></product_url>
+    <product_price><![CDATA[72399]]></product_price>
+    <product_price_discount><![CDATA[]]></product_price_discount>
+    <product_image_urls>
+        <product_image_url><![CDATA[https://halabrin-decibel.rs/wp-content/uploads/2025/10/samsung-galaxy-s25-12-128gb-silver-shadow-srebrni-sivi-0.jpg]]></product_image_url>
+    </product_image_urls>
+    <product_ean><![CDATA[]]></product_ean>
+    <product_isbn><![CDATA[]]></product_isbn>
+    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_note><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_note>
+    <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
+    <product_warranty><![CDATA[2 godine]]></product_warranty>
+    <attributes>
+        <attribute>
+            <key><![CDATA[Ekran]]></key>
+            <value><![CDATA[Glavni ekran: Dijagonala ekrana: 6.2″ Dynamic LTPO AMOLED 2X, 1080 x 2340px]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[RAM Memorija]]></key>
+            <value><![CDATA[12 GB]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[Interna Memorija]]></key>
+            <value><![CDATA[128 GB]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[Boja]]></key>
+            <value><![CDATA[Silver Shadow]]></value>
+        </attribute>
+    </attributes>
+</product>
+
+
+
+<product>
+    <sku><![CDATA[10200396]]></sku>
+    <product_category><![CDATA[Telefoni, tableti i pametni satovi → Mobilni telefoni → Smart mobilni telefoni]]></product_category>
+    <product_name><![CDATA[SAMSUNG Galaxy S25 Ultra 12/512GB 5G Titanium Black (Crni)]]></product_name>
+    <brand><![CDATA[SAMSUNG]]></brand>
+    <model><![CDATA[Galaxy S25 Ultra 12/512GB 5G Titanium Black]]></model>
+    <product_description><![CDATA[Samsung Galaxy S25 Ultra 12GB/512GB predstavlja vrhunac snage i inovacije u Galaxy seriji. Ogroman 6.9″ QHD+ Dynamic AMOLED 2X ekran od 120 Hz donosi izuzetnu jasnoću i fluidnost, dok Snapdragon 8 Elite (3 nm) i 12 GB RAM-a pružaju maksimalne performanse. Revolucionarni 200 MP sistem kamera sa 5x optičkim zumom omogućava profesionalne fotografije i 8K video snimke, a 5000 mAh baterija sa 45W brzim i 25W bežičnim punjenjem obezbeđuje dugotrajan i pouzdan rad.]]></product_description>
+    <product_url><![CDATA[https://halabrin-decibel.rs/proizvod/samsung-galaxy-s25-ultra-12-512gb-5g-titanium-black-crni/]]></product_url>
+    <product_price><![CDATA[119790]]></product_price>
+    <product_price_discount><![CDATA[]]></product_price_discount>
+    <product_image_urls>
+        <product_image_url><![CDATA[https://halabrin-decibel.rs/wp-content/uploads/2025/10/1209436-1_fab089d8-3f5d-48b7-82a2-71afaf0b9ba6.jpeg]]></product_image_url>
+    </product_image_urls>
+    <product_ean><![CDATA[]]></product_ean>
+    <product_isbn><![CDATA[]]></product_isbn>
+    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_note><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_note>
+    <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
+    <product_warranty><![CDATA[2 godine]]></product_warranty>
+    <attributes>
+        <attribute>
+            <key><![CDATA[Ekran]]></key>
+            <value><![CDATA[6.9″, Dynamic LTPO AMOLED 2X, 1440 x 3088px]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[RAM Memorija]]></key>
+            <value><![CDATA[12 GB]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[Interna Memorija]]></key>
+            <value><![CDATA[512 GB]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[Boja]]></key>
+            <value><![CDATA[Titanium Black (Crna)]]></value>
+        </attribute>
+    </attributes>
+</product>
+
+
 
 
   
 </products>
+
 
 
 
