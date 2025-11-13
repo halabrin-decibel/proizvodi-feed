@@ -1369,17 +1369,17 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
 
 
   <product>
-    <sku><![CDATA[00508]]></sku>
+    <sku><![CDATA[02802]]></sku>
     <product_category><![CDATA[Klima uređaji i grejanje → Grejanje → Peći i šporeti na drva]]></product_category>
-    <product_name><![CDATA[Peć na čvrsto gorivo Alfa Plam Lara, crvena]]></product_name>
-    <brand><![CDATA[Alfa Plam]]></brand>
-    <model><![CDATA[Lara-Crvena]]></model>
-    <product_description><![CDATA[Peć na čvrsto gorivo Alfa Plam Lara Crvena je savršeni izbor za one koji žele da spoje funkcionalnost, uštedu i estetski doživljaj u svom domu. Sa svojom prelepom crvenom bojom i elegantnim dizajnom, ova peć ne samo da greje, već donosi i estetski pečat vašem prostoru. Idealna za manje i srednje prostore, peć Lara se odlikuje visokim stepenom energetske efikasnosti, maksimalnim iskorišćenjem goriva i dugotrajnim grejanjem, čineći je pogodnom za sve one koji žele optimalnu toplotu bez kompromisa u pogledu ekonomičnosti.]]></product_description>
-    <product_url><![CDATA[https://halabrin-decibel.rs/proizvod/pec-na-cvrsto-gorivo-alfa-plam-lara-crvena/]]></product_url>
-    <product_price><![CDATA[51990]]></product_price>
-    <product_price_discount><![CDATA[43500]]></product_price_discount>
+    <product_name><![CDATA[Peć na čvrsto gorivo MBS Happy, krem]]></product_name>
+    <brand><![CDATA[MBS]]></brand>
+    <model><![CDATA[Happy-Krem]]></model>
+    <product_description><![CDATA[Peć na čvrsto gorivo MBS Happy u krem boji je kompaktna i ekološki prihvatljiva peć koja pruža visoku efikasnost i dugotrajan rad uz minimalnu potrošnju goriva. Sa snagom od 6 kW, ova peć je idealna za grejanje prostora do 40 m², što je čini savršenim izborom za male i srednje prostore.]]></product_description>
+    <product_url><![CDATA[https://halabrin-decibel.rs/proizvod/pec-na-cvrsto-gorivo-mbs-happy-krem/]]></product_url>
+    <product_price><![CDATA[29990]]></product_price>
+    <product_price_discount><![CDATA[26990]]></product_price_discount>
     <product_image_urls>
-        <product_image_url><![CDATA[https://halabrin-decibel.rs/wp-content/uploads/2025/10/pec-alfa-lara-crvena-0508-1.jpg]]></product_image_url>
+        <product_image_url><![CDATA[https://halabrin-decibel.rs/wp-content/uploads/2025/10/pec-mbs-happy-krem-2802-1.jpg]]></product_image_url>
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
@@ -1390,23 +1390,23 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     <attributes>
         <attribute>
             <key><![CDATA[Snaga]]></key>
-            <value><![CDATA[8 kW]]></value>
+            <value><![CDATA[6 kW]]></value>
         </attribute>
         <attribute>
             <key><![CDATA[Dimenzije]]></key>
-            <value><![CDATA[460 x 440 x 900 mm]]></value>
+            <value><![CDATA[400x745x410 mm]]></value>
         </attribute>
         <attribute>
-            <key><![CDATA[Zapremina zagrevanja]]></key>
-            <value><![CDATA[133 m3]]></value>
+            <key><![CDATA[Kapacitet zagrevanja]]></key>
+            <value><![CDATA[30-40 m2]]></value>
         </attribute>
         <attribute>
             <key><![CDATA[Boja]]></key>
-            <value><![CDATA[Crvena]]></value>
+            <value><![CDATA[Krem]]></value>
         </attribute>
         <attribute>
             <key><![CDATA[Stepen iskorišćenja]]></key>
-            <value><![CDATA[75%]]></value>
+            <value><![CDATA[82%]]></value>
         </attribute>
     </attributes>
 </product>
@@ -1900,6 +1900,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
 
   
 </products>
+
 
 
 
