@@ -1383,7 +1383,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
-    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_stock>1</product_stock>
     <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
     <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
     <product_warranty><![CDATA[2 godine]]></product_warranty>
@@ -1428,7 +1428,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
-    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_stock>1</product_stock>
     <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
     <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
     <product_warranty><![CDATA[2 godine]]></product_warranty>
@@ -1468,7 +1468,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
-    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_stock>1</product_stock>
     <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
     <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
     <product_warranty><![CDATA[2+3 godine]]></product_warranty>
@@ -1508,7 +1508,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
-    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_stock>1</product_stock>
     <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
     <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
     <product_warranty><![CDATA[2+3 godine]]></product_warranty>
@@ -1548,7 +1548,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
-    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_stock>1</product_stock>
     <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
     <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
     <product_warranty><![CDATA[2+3 godine]]></product_warranty>
@@ -1588,7 +1588,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
-    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_stock>1</product_stock>
     <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
     <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
     <product_warranty><![CDATA[2+3 godine]]></product_warranty>
@@ -1628,7 +1628,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
-    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_stock>1</product_stock>
     <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
     <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
     <product_warranty><![CDATA[2+3 godine]]></product_warranty>
@@ -1668,7 +1668,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
-    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_stock>1</product_stock>
     <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
     <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
     <product_warranty><![CDATA[2 godine]]></product_warranty>
@@ -1708,7 +1708,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
-    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_stock>1</product_stock>
     <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
     <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
     <product_warranty><![CDATA[2 godine]]></product_warranty>
@@ -1748,7 +1748,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
-    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_stock>1</product_stock>
     <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
     <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
     <product_warranty><![CDATA[2 godine]]></product_warranty>
@@ -1789,7 +1789,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
-    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_stock>1</product_stock>
     <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
     <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
     <product_warranty><![CDATA[2 godine]]></product_warranty>
@@ -1830,7 +1830,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
-    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_stock>1</product_stock>
     <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
     <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
     <product_warranty><![CDATA[2 godine]]></product_warranty>
@@ -1871,7 +1871,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
-    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_stock>1</product_stock>
     <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
     <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
     <product_warranty><![CDATA[2 godine]]></product_warranty>
@@ -1912,7 +1912,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
-    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_stock>1</product_stock>
     <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
     <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
     <product_warranty><![CDATA[2 godine]]></product_warranty>
@@ -1954,7 +1954,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
-    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_stock>1</product_stock>
     <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
     <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
     <product_warranty><![CDATA[2 godine]]></product_warranty>
@@ -1996,7 +1996,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
-    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_stock>1</product_stock>
     <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
     <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
     <product_warranty><![CDATA[2 godine]]></product_warranty>
@@ -2037,7 +2037,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
-    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_stock>1</product_stock>
     <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
     <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
     <product_warranty><![CDATA[2 godine]]></product_warranty>
@@ -2078,7 +2078,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
-    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_stock>1</product_stock>
     <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
     <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
     <product_warranty><![CDATA[2 godine]]></product_warranty>
@@ -2119,7 +2119,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
-    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_stock>1</product_stock>
     <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
     <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
     <product_warranty><![CDATA[2 godine]]></product_warranty>
@@ -2160,7 +2160,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
-    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_stock>1</product_stock>
     <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
     <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
     <product_warranty><![CDATA[2 godine]]></product_warranty>
@@ -2201,7 +2201,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
-    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_stock>1</product_stock>
     <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
     <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
     <product_warranty><![CDATA[2 godine]]></product_warranty>
@@ -2242,7 +2242,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
-    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_stock>1</product_stock>
     <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
     <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
     <product_warranty><![CDATA[2 godine]]></product_warranty>
@@ -2283,7 +2283,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
-    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_stock>1</product_stock>
     <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
     <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
     <product_warranty><![CDATA[2 godine]]></product_warranty>
@@ -2324,7 +2324,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
-    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_stock>1</product_stock>
     <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
     <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
     <product_warranty><![CDATA[2 godine]]></product_warranty>
@@ -2365,7 +2365,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
-    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_stock>1</product_stock>
     <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
     <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
     <product_warranty><![CDATA[2 godine]]></product_warranty>
@@ -2406,7 +2406,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
-    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_stock>1</product_stock>
     <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
     <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
     <product_warranty><![CDATA[2 godine]]></product_warranty>
@@ -2447,7 +2447,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
     </product_image_urls>
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
-    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_stock>1</product_stock>
     <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
     <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
     <product_warranty><![CDATA[2 godine]]></product_warranty>
@@ -2477,6 +2477,7 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
 
   
 </products>
+
 
 
 
