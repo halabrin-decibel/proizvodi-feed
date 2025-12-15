@@ -1573,44 +1573,6 @@ Indukcioni rešo troši manje energije u poređenju sa standardnim rešoima, št
 </product>
 
 
-<product>
-    <sku><![CDATA[1250433]]></sku>
-    <product_category><![CDATA[Klima uređaji i grejanje → Klima uređaji → Inverter klima uređaji]]></product_category>
-    <product_name><![CDATA[Inverter klima uređaj VIVAX COOL ACP-12CH35AEHI+ R32 ZLATNA]]></product_name>
-    <product_brand><![CDATA[VIVAX]]></product_brand>
-    <product_mpn><![CDATA[ACP-12CH35AEHI+ R32 GOLD]]></product_mpn>
-    <product_description><![CDATA[VIVAX H+ Design klima uređaj ACP-12CH35AEHI+ u elegantnoj zlatnoj boji donosi vrhunske performanse i izuzetnu energetsku efikasnost. Sa nominalnim kapacitetom hlađenja od 3,52 kW i grejanja od 3,81 kW, ovaj uređaj koristi 3D inverter tehnologiju koja omogućava savršenu ravnotežu između visoke efikasnosti i minimalne potrošnje energije. Opremljen funkcijom “Osećam”, klima uređaj automatski prilagođava temperaturu i brzinu ventilatora prema uslovima u prostoriji, čime obezbeđuje optimalnu udobnost i dodatnu uštedu energije.]]></product_description>
-    <product_url><![CDATA[https://halabrin-decibel.rs/proizvod/vivax-cool-klima-uredjaji-acp-12ch35aehi-r32-zlatna/]]></product_url>
-    <product_price><![CDATA[54790]]></product_price>
-    <product_price_discount><![CDATA[]]></product_price_discount>
-    <product_image_urls>
-        <product_image_url><![CDATA[https://halabrin-decibel.rs/wp-content/uploads/2025/10/0001250433_IMG_MAIN_F.jpg]]></product_image_url>
-    </product_image_urls>
-    <product_ean><![CDATA[]]></product_ean>
-    <product_isbn><![CDATA[]]></product_isbn>
-    <product_stock>1</product_stock>
-    <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
-    <product_delivery_price><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery_price>
-    <product_warranty><![CDATA[2+3 godine]]></product_warranty>
-    <attributes>
-        <attribute>
-            <key><![CDATA[Energetska klasa grejanja]]></key>
-            <value><![CDATA[A++]]></value>
-        </attribute>
-        <attribute>
-            <key><![CDATA[Gas]]></key>
-            <value><![CDATA[R32]]></value>
-        </attribute>
-        <attribute>
-            <key><![CDATA[Kapacitet grejanja i hlađenja]]></key>
-            <value><![CDATA[12000 BTU]]></value>
-        </attribute>
-        <attribute>
-            <key><![CDATA[Boja]]></key>
-            <value><![CDATA[Zlatna]]></value>
-        </attribute>
-    </attributes>
-</product>
 
 
 <product>
@@ -2467,12 +2429,90 @@ Glavni 6.9″ Foldable Dynamic AMOLED 2X ekran nudi besprekoran prikaz uz 120
 </product>
 
 
+<product>
+    <sku><![CDATA[TD34TP2T-1232IA]]></sku>
+    <product_category><![CDATA[Klima uređaji i grejanje → Klima uređaji → Inverter klima uređaji]]></product_category>
+    <product_name><![CDATA[Inverter Klima TESLA TD34TP2T-1232IA]]></product_name>
+    <product_brand><![CDATA[TESLA]]></product_brand>
+    <model><![CDATA[TD34TP2T-1232IA]]></model>
+    <product_description><![CDATA[Inverter klima TESLA TD34TP2T-1232IA predstavlja savršeno rešenje za sve koji traže balans između energetske efikasnosti, tihog rada i pouzdanih performansi. Sa svojim naprednim karakteristikama, ovaj model je idealan za različite vrste prostora – od dnevnih boravaka do kancelarija. Saznajte sve o ovoj inovativnoj klimi koja nudi izuzetnu udobnost tokom celokupne godine.]]></product_description>
+    <product_url><![CDATA[https://halabrin-decibel.rs/proizvod/klima-tesla-td34tp2t-1232ia/]]></product_url>
+    <product_price><![CDATA[34990]]></product_price>
+    <product_price_discount><![CDATA[32990]]></product_price_discount>
+    <product_image_urls>
+        <product_image_url><![CDATA[https://halabrin-decibel.rs/wp-content/uploads/2025/10/TD34TP2T-1232IA_250811010831071.png]]></product_image_url>
+    </product_image_urls>
+    <product_ean><![CDATA[]]></product_ean>
+    <product_isbn><![CDATA[]]></product_isbn>
+    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_note><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_note>
+    <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
+    <product_warranty><![CDATA[2+3 godine]]></product_warranty>
+    <attributes>
+        <attribute>
+            <key><![CDATA[Energetska klasa grejanja]]></key>
+            <value><![CDATA[A++]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[Gas]]></key>
+            <value><![CDATA[R32]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[Kapacitet grejanja i hlađenja]]></key>
+            <value><![CDATA[12000 BTU]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[Boja]]></key>
+            <value><![CDATA[Bela]]></value>
+        </attribute>
+    </attributes>
+</product>
 
+
+<product>
+    <sku><![CDATA[TT51EXKC-1832IAW]]></sku>
+    <product_category><![CDATA[Klima uređaji i grejanje → Klima uređaji → Inverter klima uređaji]]></product_category>
+    <product_name><![CDATA[Inverter Klima Uređaj TESLA TT51EXKC-1832IAW]]></product_name>
+    <product_brand><![CDATA[TESLA]]></product_brand>
+    <model><![CDATA[TT51EXKC-1832IAW]]></model>
+    <product_description><![CDATA[Za one koji traže moćno i pouzdano rešenje za klimatizaciju većih prostora, TESLA TT51EXKC-1832IAW inverter klima uređaj kapaciteta 18000 BTU predstavlja idealan izbor. Sa energetskom efikasnošću klase A++ za grejanje i A+ za hlađenje, ovaj model nudi optimalnu potrošnju električne energije bez kompromisa u performansama. Ugrađeni Wi-Fi modul omogućava daljinsko upravljanje putem aplikacije, dok napredne funkcije poput FEEL senzora, inteligentnog odmrzavanja, samodijagnostike i automatskog restarta obezbeđuju jednostavno i prilagodljivo korišćenje u svim uslovima. Posebno se ističe turbo hlađenje, koje omogućava brzo postizanje željene temperature u rekordnom roku.]]></product_description>
+    <product_url><![CDATA[https://halabrin-decibel.rs/proizvod/tesla-tt51exkc-1832iaw-inverter-klima-uredjaj/]]></product_url>
+    <product_price><![CDATA[57990]]></product_price>
+    <product_price_discount><![CDATA[51990]]></product_price_discount>
+    <product_image_urls>
+        <product_image_url><![CDATA[https://halabrin-decibel.rs/wp-content/uploads/2025/04/image-7.avif]]></product_image_url>
+    </product_image_urls>
+    <product_ean><![CDATA[]]></product_ean>
+    <product_isbn><![CDATA[]]></product_isbn>
+    <product_quantity><![CDATA[1]]></product_quantity>
+    <product_note><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_note>
+    <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
+    <product_warranty><![CDATA[2+3 godine]]></product_warranty>
+    <attributes>
+        <attribute>
+            <key><![CDATA[Energetska klasa grejanja]]></key>
+            <value><![CDATA[A++]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[Gas]]></key>
+            <value><![CDATA[R32]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[Kapacitet grejanja i hlađenja]]></key>
+            <value><![CDATA[18000 BTU]]></value>
+        </attribute>
+        <attribute>
+            <key><![CDATA[Boja]]></key>
+            <value><![CDATA[Bela]]></value>
+        </attribute>
+    </attributes>
+</product>
   
 
 
   
 </products>
+
 
 
 
