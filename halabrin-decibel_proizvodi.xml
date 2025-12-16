@@ -2434,7 +2434,7 @@ Glavni 6.9″ Foldable Dynamic AMOLED 2X ekran nudi besprekoran prikaz uz 120
     <product_category><![CDATA[Klima uređaji i grejanje → Klima uređaji → Inverter klima uređaji]]></product_category>
     <product_name><![CDATA[Inverter Klima TESLA TD34TP2T-1232IA]]></product_name>
     <product_brand><![CDATA[TESLA]]></product_brand>
-    <model><![CDATA[TD34TP2T-1232IA]]></model>
+    <product_mpn><![CDATA[TD34TP2T-1232IA]]></product_mpn>
     <product_description><![CDATA[Inverter klima TESLA TD34TP2T-1232IA predstavlja savršeno rešenje za sve koji traže balans između energetske efikasnosti, tihog rada i pouzdanih performansi. Sa svojim naprednim karakteristikama, ovaj model je idealan za različite vrste prostora – od dnevnih boravaka do kancelarija. Saznajte sve o ovoj inovativnoj klimi koja nudi izuzetnu udobnost tokom celokupne godine.]]></product_description>
     <product_url><![CDATA[https://halabrin-decibel.rs/proizvod/klima-tesla-td34tp2t-1232ia/]]></product_url>
     <product_price><![CDATA[34990]]></product_price>
@@ -2445,8 +2445,8 @@ Glavni 6.9″ Foldable Dynamic AMOLED 2X ekran nudi besprekoran prikaz uz 120
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
     <product_quantity><![CDATA[1]]></product_quantity>
-    <product_note><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_note>
-    <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
+    <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
+    <product_delivery_price><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery_price>
     <product_warranty><![CDATA[2+3 godine]]></product_warranty>
     <attributes>
         <attribute>
@@ -2474,7 +2474,7 @@ Glavni 6.9″ Foldable Dynamic AMOLED 2X ekran nudi besprekoran prikaz uz 120
     <product_category><![CDATA[Klima uređaji i grejanje → Klima uređaji → Inverter klima uređaji]]></product_category>
     <product_name><![CDATA[Inverter Klima Uređaj TESLA TT51EXKC-1832IAW]]></product_name>
     <product_brand><![CDATA[TESLA]]></product_brand>
-    <model><![CDATA[TT51EXKC-1832IAW]]></model>
+    <product_mpn><![CDATA[TT51EXKC-1832IAW]]></product_mpn>
     <product_description><![CDATA[Za one koji traže moćno i pouzdano rešenje za klimatizaciju većih prostora, TESLA TT51EXKC-1832IAW inverter klima uređaj kapaciteta 18000 BTU predstavlja idealan izbor. Sa energetskom efikasnošću klase A++ za grejanje i A+ za hlađenje, ovaj model nudi optimalnu potrošnju električne energije bez kompromisa u performansama. Ugrađeni Wi-Fi modul omogućava daljinsko upravljanje putem aplikacije, dok napredne funkcije poput FEEL senzora, inteligentnog odmrzavanja, samodijagnostike i automatskog restarta obezbeđuju jednostavno i prilagodljivo korišćenje u svim uslovima. Posebno se ističe turbo hlađenje, koje omogućava brzo postizanje željene temperature u rekordnom roku.]]></product_description>
     <product_url><![CDATA[https://halabrin-decibel.rs/proizvod/tesla-tt51exkc-1832iaw-inverter-klima-uredjaj/]]></product_url>
     <product_price><![CDATA[57990]]></product_price>
@@ -2485,8 +2485,8 @@ Glavni 6.9″ Foldable Dynamic AMOLED 2X ekran nudi besprekoran prikaz uz 120
     <product_ean><![CDATA[]]></product_ean>
     <product_isbn><![CDATA[]]></product_isbn>
     <product_quantity><![CDATA[1]]></product_quantity>
-    <product_note><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_note>
-    <product_delivery><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery>
+    <product_remark><![CDATA[Halabrin Decibel – bela tehnika, audio, video i IT oprema, klima uređaji, grejanje i mali kućni aparati. Proveren kvalitet, odlične cene i brza dostava!]]></product_remark>
+    <product_delivery_price><![CDATA[Dostava po cenovniku kurirskih službi.]]></product_delivery_price>
     <product_warranty><![CDATA[2+3 godine]]></product_warranty>
     <attributes>
         <attribute>
@@ -2512,6 +2512,7 @@ Glavni 6.9″ Foldable Dynamic AMOLED 2X ekran nudi besprekoran prikaz uz 120
 
   
 </products>
+
 
 
 
